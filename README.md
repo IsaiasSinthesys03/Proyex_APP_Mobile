@@ -3,6 +3,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%3E=3.9-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Fast-0175C2?logo=dart)
 
+## 📸 Evidencia Visual
+<div align="center">
+  <img src="assets/images/screens/proyex_app1.jpeg" width="22%" />
+  <img src="assets/images/screens/proyex_app2.jpeg" width="22%" />
+  <img src="assets/images/screens/proyex_app3.jpeg" width="22%" />
+  <img src="assets/images/screens/proyex_app4.jpeg" width="22%" />
+</div>
+
 ## 📖 Descripción Breve
 Proyex Mobile es la interfaz interactiva portátil dirigida a jueces, organizadores y asistentes de la exhibición técnica. Facilita la recolección de feedback cualitativo y cuantitativo al instante, escaneando proyectos físicos en sitio y enviando rúbricas directo al motor backend de PX Forge.
 
